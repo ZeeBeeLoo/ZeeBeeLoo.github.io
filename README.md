@@ -1,6 +1,6 @@
 ##  Harry Potter
 
-I love Harry Potter because it has such good books and decend movies.hi
+I love Harry Potter because it has such good books and decend movies.
 
 ### Markdown
 Markdown
