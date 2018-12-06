@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hello I am Emma And I love Harry Potter
 
-You can use the [editor on GitHub](https://github.com/ZeeBeeLoo/ZeeBeeLoo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I love Harry Potter because it has such good books and decend movies.
 
 ### Markdown
 
